@@ -1,0 +1,2083 @@
+[
+    {
+        "currency": "AFN",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AF",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Afghanistan"
+    },
+    {
+        "currency": "ALL",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AL",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Albania"
+    },
+    {
+        "currency": "DZD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "DZ",
+        "popularLocales": [
+            "en-GB",
+            "fr-FR"
+        ],
+        "name": "Algeria"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AS",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "American Samoa"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AD",
+        "popularLocales": [
+            "es-ES"
+        ],
+        "name": "Andorra"
+    },
+    {
+        "currency": "AOA",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AO",
+        "popularLocales": [
+            "en-GB",
+            "pt-PT"
+        ],
+        "name": "Angola"
+    },
+    {
+        "currency": "XCD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AI",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Anguilla"
+    },
+    {
+        "currency": "XCD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Antigua and Barbuda"
+    },
+    {
+        "currency": "ARS",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "AR",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Argentina"
+    },
+    {
+        "currency": "AMD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AM",
+        "popularLocales": [
+            "en-GB",
+            "ru-RU"
+        ],
+        "name": "Armenia"
+    },
+    {
+        "currency": "AWG",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AW",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Aruba"
+    },
+    {
+        "currency": "AUD",
+        "fullDomainName": "www.skyscanner.com.au",
+        "market": "AU",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Australia"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.at",
+        "market": "AT",
+        "popularLocales": [
+            "de-DE"
+        ],
+        "name": "Austria"
+    },
+    {
+        "currency": "AZN",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "AZ",
+        "popularLocales": [
+            "en-GB",
+            "ru-RU"
+        ],
+        "name": "Azerbaijan"
+    },
+    {
+        "currency": "BSD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BS",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Bahamas"
+    },
+    {
+        "currency": "BHD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BH",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Bahrain"
+    },
+    {
+        "currency": "BDT",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BD",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Bangladesh"
+    },
+    {
+        "currency": "BBD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BB",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Barbados"
+    },
+    {
+        "currency": "BYN",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BY",
+        "popularLocales": [
+            "ru-RU"
+        ],
+        "name": "Belarus"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BE",
+        "popularLocales": [
+            "fr-FR",
+            "nl-NL"
+        ],
+        "name": "Belgium"
+    },
+    {
+        "currency": "BZD",
+        "fullDomainName": "www.skyscanner.com",
+        "market": "BZ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Belize"
+    },
+    {
+        "currency": "XOF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BJ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Benin"
+    },
+    {
+        "currency": "BMD",
+        "fullDomainName": "www.skyscanner.com",
+        "market": "BM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Bermuda"
+    },
+    {
+        "currency": "BTN",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BT",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Bhutan"
+    },
+    {
+        "currency": "BOB",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "BO",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Bolivia"
+    },
+    {
+        "currency": "BAM",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BA",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Bosnia and Herzegovina"
+    },
+    {
+        "currency": "BWP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BW",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Botswana"
+    },
+    {
+        "currency": "BRL",
+        "fullDomainName": "www.skyscanner.com.br",
+        "market": "BR",
+        "popularLocales": [
+            "pt-BR"
+        ],
+        "name": "Brazil"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "VG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "British Virgin Islands"
+    },
+    {
+        "currency": "BND",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BN",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Brunei"
+    },
+    {
+        "currency": "BGN",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BG",
+        "popularLocales": [
+            "bg-BG"
+        ],
+        "name": "Bulgaria"
+    },
+    {
+        "currency": "XOF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BF",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Burkina Faso"
+    },
+    {
+        "currency": "BIF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "BI",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Burundi"
+    },
+    {
+        "currency": "KHR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KH",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Cambodia"
+    },
+    {
+        "currency": "XAF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "CM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Cameroon"
+    },
+    {
+        "currency": "CAD",
+        "fullDomainName": "www.skyscanner.ca",
+        "market": "CA",
+        "popularLocales": [
+            "en-US",
+            "fr-FR"
+        ],
+        "name": "Canada"
+    },
+    {
+        "currency": "CVE",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "CV",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Cape Verde"
+    },
+    {
+        "currency": "KYD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KY",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Cayman Islands"
+    },
+    {
+        "currency": "XAF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "CF",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Central African Republic"
+    },
+    {
+        "currency": "XAF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "TD",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Chad"
+    },
+    {
+        "currency": "CLP",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "CL",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Chile"
+    },
+    {
+        "currency": "CNY",
+        "fullDomainName": "www.tianxun.com",
+        "market": "CN",
+        "popularLocales": [
+            "zh-CN"
+        ],
+        "name": "China"
+    },
+    {
+        "currency": "AUD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "CX",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Christmas Island"
+    },
+    {
+        "currency": "AUD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "CC",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Cocos (Keeling) Islands"
+    },
+    {
+        "currency": "COP",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "CO",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Colombia"
+    },
+    {
+        "currency": "KMF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Comoros"
+    },
+    {
+        "currency": "XAF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "CG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Congo"
+    },
+    {
+        "currency": "NZD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "CK",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Cook Islands"
+    },
+    {
+        "currency": "CRC",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "CR",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Costa Rica"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "HR",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Croatia"
+    },
+    {
+        "currency": "CUP",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "CU",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Cuba"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "CY",
+        "popularLocales": [
+            "el-GR"
+        ],
+        "name": "Cyprus"
+    },
+    {
+        "currency": "CZK",
+        "fullDomainName": "www.skyscanner.cz",
+        "market": "CZ",
+        "popularLocales": [
+            "cs-CZ"
+        ],
+        "name": "Czech Republic"
+    },
+    {
+        "currency": "DKK",
+        "fullDomainName": "www.skyscanner.dk",
+        "market": "DK",
+        "popularLocales": [
+            "da-DK"
+        ],
+        "name": "Denmark"
+    },
+    {
+        "currency": "DJF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "DJ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Djibouti"
+    },
+    {
+        "currency": "XCD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "DM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Dominica"
+    },
+    {
+        "currency": "DOP",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "DO",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Dominican Republic"
+    },
+    {
+        "currency": "CDF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "CD",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "DR Congo"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "EC",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Ecuador"
+    },
+    {
+        "currency": "EGP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "EG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Egypt"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "SV",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "El Salvador"
+    },
+    {
+        "currency": "XAF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GQ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Equatorial Guinea"
+    },
+    {
+        "currency": "ERN",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "ER",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Eritrea"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "EE",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Estonia"
+    },
+    {
+        "currency": "SZL",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SZ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Eswatini"
+    },
+    {
+        "currency": "ETB",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "ET",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Ethiopia"
+    },
+    {
+        "currency": "GBP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "FK",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Falkland Islands"
+    },
+    {
+        "currency": "DKK",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "FO",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Faroe Islands"
+    },
+    {
+        "currency": "FJD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "FJ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Fiji"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.fi",
+        "market": "FI",
+        "popularLocales": [
+            "fi-FI"
+        ],
+        "name": "Finland"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "FR",
+        "popularLocales": [
+            "fr-FR"
+        ],
+        "name": "France"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "GF",
+        "popularLocales": [
+            "fr-FR"
+        ],
+        "name": "French Guiana"
+    },
+    {
+        "currency": "XPF",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "PF",
+        "popularLocales": [
+            "fr-FR"
+        ],
+        "name": "French Polynesia"
+    },
+    {
+        "currency": "XAF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GA",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Gabon"
+    },
+    {
+        "currency": "GMD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Gambia"
+    },
+    {
+        "currency": "GEL",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GE",
+        "popularLocales": [
+            "en-GB",
+            "ru-RU"
+        ],
+        "name": "Georgia"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.de",
+        "market": "DE",
+        "popularLocales": [
+            "de-DE"
+        ],
+        "name": "Germany"
+    },
+    {
+        "currency": "GHS",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GH",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Ghana"
+    },
+    {
+        "currency": "GIP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GI",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Gibraltar"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "gr.skyscanner.com",
+        "market": "GR",
+        "popularLocales": [
+            "el-GR"
+        ],
+        "name": "Greece"
+    },
+    {
+        "currency": "DKK",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GL",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Greenland"
+    },
+    {
+        "currency": "XCD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GD",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Grenada"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "GP",
+        "popularLocales": [
+            "fr-FR"
+        ],
+        "name": "Guadeloupe"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GU",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Guam"
+    },
+    {
+        "currency": "GTQ",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "GT",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Guatemala"
+    },
+    {
+        "currency": "GBP",
+        "fullDomainName": "www.skyscanner.gg",
+        "market": "GG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Guernsey"
+    },
+    {
+        "currency": "GNF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GN",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Guinea"
+    },
+    {
+        "currency": "GNF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GW",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Guinea-Bissau"
+    },
+    {
+        "currency": "GYD",
+        "fullDomainName": "www.skyscanner.com",
+        "market": "GY",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Guyana"
+    },
+    {
+        "currency": "HTG",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "HT",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Haiti"
+    },
+    {
+        "currency": "HNL",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "HN",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Honduras"
+    },
+    {
+        "currency": "HKD",
+        "fullDomainName": "www.skyscanner.com.hk",
+        "market": "HK",
+        "popularLocales": [
+            "en-GB",
+            "zh-TW"
+        ],
+        "name": "Hong Kong"
+    },
+    {
+        "currency": "HUF",
+        "fullDomainName": "www.skyscanner.hu",
+        "market": "HU",
+        "popularLocales": [
+            "hu-HU"
+        ],
+        "name": "Hungary"
+    },
+    {
+        "currency": "ISK",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "IS",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Iceland"
+    },
+    {
+        "currency": "INR",
+        "fullDomainName": "www.skyscanner.co.in",
+        "market": "IN",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "India"
+    },
+    {
+        "currency": "IDR",
+        "fullDomainName": "www.skyscanner.co.id",
+        "market": "ID",
+        "popularLocales": [
+            "en-GB",
+            "id-ID"
+        ],
+        "name": "Indonesia"
+    },
+    {
+        "currency": "IRR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "IR",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Iran"
+    },
+    {
+        "currency": "IQD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "IQ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Iraq"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.ie",
+        "market": "IE",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Ireland"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.co.il",
+        "market": "IL",
+        "popularLocales": [
+            "en-US"
+        ],
+        "name": "Israel"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.it",
+        "market": "IT",
+        "popularLocales": [
+            "it-IT"
+        ],
+        "name": "Italy"
+    },
+    {
+        "currency": "XOF",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "CI",
+        "popularLocales": [
+            "fr-FR"
+        ],
+        "name": "Ivory Coast"
+    },
+    {
+        "currency": "JMD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "JM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Jamaica"
+    },
+    {
+        "currency": "JPY",
+        "fullDomainName": "www.skyscanner.jp",
+        "market": "JP",
+        "popularLocales": [
+            "ja-JP"
+        ],
+        "name": "Japan"
+    },
+    {
+        "currency": "JOD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "JO",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Jordan"
+    },
+    {
+        "currency": "KZT",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KZ",
+        "popularLocales": [
+            "en-GB",
+            "ru-RU"
+        ],
+        "name": "Kazakhstan"
+    },
+    {
+        "currency": "KES",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KE",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Kenya"
+    },
+    {
+        "currency": "AUD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KI",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Kiribati"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "XK",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Kosovo"
+    },
+    {
+        "currency": "KWD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KW",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Kuwait"
+    },
+    {
+        "currency": "KGS",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KG",
+        "popularLocales": [
+            "en-GB",
+            "ru-RU"
+        ],
+        "name": "Kyrgyzstan"
+    },
+    {
+        "currency": "LAK",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LA",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Laos"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LV",
+        "popularLocales": [
+            "en-GB",
+            "ru-RU"
+        ],
+        "name": "Latvia"
+    },
+    {
+        "currency": "LBP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LB",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Lebanon"
+    },
+    {
+        "currency": "LSL",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LS",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Lesotho"
+    },
+    {
+        "currency": "LRD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LR",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Liberia"
+    },
+    {
+        "currency": "LYD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LY",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Libya"
+    },
+    {
+        "currency": "CHF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LI",
+        "popularLocales": [
+            "de-DE"
+        ],
+        "name": "Liechtenstein"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LT",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Lithuania"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LU",
+        "popularLocales": [
+            "en-GB",
+            "fr-FR"
+        ],
+        "name": "Luxembourg"
+    },
+    {
+        "currency": "MOP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MO",
+        "popularLocales": [
+            "en-GB",
+            "zh-TW"
+        ],
+        "name": "Macau"
+    },
+    {
+        "currency": "MGA",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Madagascar"
+    },
+    {
+        "currency": "MWK",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MW",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Malawi"
+    },
+    {
+        "currency": "MYR",
+        "fullDomainName": "www.skyscanner.com.my",
+        "market": "MY",
+        "popularLocales": [
+            "en-GB",
+            "ms-MY",
+            "zh-CN"
+        ],
+        "name": "Malaysia"
+    },
+    {
+        "currency": "MVR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MV",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Maldives"
+    },
+    {
+        "currency": "XOF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "ML",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Mali"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MT",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Malta"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MH",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Marshall Islands"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "MQ",
+        "popularLocales": [
+            "fr-FR"
+        ],
+        "name": "Martinique"
+    },
+    {
+        "currency": "MRO",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MR",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Mauritania"
+    },
+    {
+        "currency": "MUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MU",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Mauritius"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "YT",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Mayotte"
+    },
+    {
+        "currency": "MXN",
+        "fullDomainName": "www.skyscanner.com.mx",
+        "market": "MX",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Mexico"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "FM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Micronesia"
+    },
+    {
+        "currency": "MDL",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MD",
+        "popularLocales": [
+            "en-GB",
+            "ru-RU"
+        ],
+        "name": "Moldova"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MC",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Monaco"
+    },
+    {
+        "currency": "MNT",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MN",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Mongolia"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "ME",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Montenegro"
+    },
+    {
+        "currency": "XCD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MS",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Montserrat"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "MA",
+        "popularLocales": [
+            "en-GB",
+            "fr-FR"
+        ],
+        "name": "Morocco"
+    },
+    {
+        "currency": "MZN",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MZ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Mozambique"
+    },
+    {
+        "currency": "MMK",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Myanmar"
+    },
+    {
+        "currency": "NAD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "NA",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Namibia"
+    },
+    {
+        "currency": "AUD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "NR",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Nauru"
+    },
+    {
+        "currency": "NPR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "NP",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Nepal"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.nl",
+        "market": "NL",
+        "popularLocales": [
+            "nl-NL"
+        ],
+        "name": "Netherlands"
+    },
+    {
+        "currency": "XPF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "NC",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "New Caledonia"
+    },
+    {
+        "currency": "NZD",
+        "fullDomainName": "www.skyscanner.co.nz",
+        "market": "NZ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "New Zealand"
+    },
+    {
+        "currency": "NIO",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "NI",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Nicaragua"
+    },
+    {
+        "currency": "XOF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "NE",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Niger"
+    },
+    {
+        "currency": "NGN",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "NG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Nigeria"
+    },
+    {
+        "currency": "NZD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "NU",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Niue"
+    },
+    {
+        "currency": "KPW",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KP",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "North Korea"
+    },
+    {
+        "currency": "MKD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MK",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "North Macedonia"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "MP",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Northern Mariana Islands"
+    },
+    {
+        "currency": "NOK",
+        "fullDomainName": "www.skyscanner.no",
+        "market": "NO",
+        "popularLocales": [
+            "nb-NO"
+        ],
+        "name": "Norway"
+    },
+    {
+        "currency": "OMR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "OM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Oman"
+    },
+    {
+        "currency": "PKR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "PK",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Pakistan"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "PW",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Palau"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "PS",
+        "popularLocales": [
+            "en-US"
+        ],
+        "name": "Palestinian Territories"
+    },
+    {
+        "currency": "PAB",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "PA",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Panama"
+    },
+    {
+        "currency": "PGK",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "PG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Papua New Guinea"
+    },
+    {
+        "currency": "PYG",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "PY",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Paraguay"
+    },
+    {
+        "currency": "PEN",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "PE",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Peru"
+    },
+    {
+        "currency": "PHP",
+        "fullDomainName": "www.skyscanner.com.ph",
+        "market": "PH",
+        "popularLocales": [
+            "en-GB",
+            "tl-PH"
+        ],
+        "name": "Philippines"
+    },
+    {
+        "currency": "PLN",
+        "fullDomainName": "www.skyscanner.pl",
+        "market": "PL",
+        "popularLocales": [
+            "pl-PL"
+        ],
+        "name": "Poland"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.pt",
+        "market": "PT",
+        "popularLocales": [
+            "pt-PT"
+        ],
+        "name": "Portugal"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "PR",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Puerto Rico"
+    },
+    {
+        "currency": "QAR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "QA",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Qatar"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "RE",
+        "popularLocales": [
+            "fr-FR"
+        ],
+        "name": "Reunion"
+    },
+    {
+        "currency": "RON",
+        "fullDomainName": "www.skyscanner.ro",
+        "market": "RO",
+        "popularLocales": [
+            "ro-RO"
+        ],
+        "name": "Romania"
+    },
+    {
+        "currency": "RUB",
+        "fullDomainName": "www.skyscanner.ru",
+        "market": "RU",
+        "popularLocales": [
+            "ru-RU"
+        ],
+        "name": "Russia"
+    },
+    {
+        "currency": "RWF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "RW",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Rwanda"
+    },
+    {
+        "currency": "XCD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "KN",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Saint Kitts and Nevis"
+    },
+    {
+        "currency": "XCD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LC",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Saint Lucia"
+    },
+    {
+        "currency": "XCD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "VC",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Saint Vincent and the Grenadines"
+    },
+    {
+        "currency": "WST",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "WS",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Samoa"
+    },
+    {
+        "currency": "STD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "ST",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Sao Tome and Principe"
+    },
+    {
+        "currency": "SAR",
+        "fullDomainName": "www.skyscanner.com.sa",
+        "market": "SA",
+        "popularLocales": [
+            "ar-AE",
+            "en-GB"
+        ],
+        "name": "Saudi Arabia"
+    },
+    {
+        "currency": "XOF",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "SN",
+        "popularLocales": [
+            "en-GB",
+            "fr-FR"
+        ],
+        "name": "Senegal"
+    },
+    {
+        "currency": "RSD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "RS",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Serbia"
+    },
+    {
+        "currency": "SCR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SC",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Seychelles"
+    },
+    {
+        "currency": "SLL",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SL",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Sierra Leone"
+    },
+    {
+        "currency": "SGD",
+        "fullDomainName": "www.skyscanner.com.sg",
+        "market": "SG",
+        "popularLocales": [
+            "en-GB",
+            "ms-MY",
+            "zh-CN"
+        ],
+        "name": "Singapore"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SK",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Slovakia"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SI",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Slovenia"
+    },
+    {
+        "currency": "SBD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SB",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Solomon Islands"
+    },
+    {
+        "currency": "SOS",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SO",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Somalia"
+    },
+    {
+        "currency": "ZAR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "ZA",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "South Africa"
+    },
+    {
+        "currency": "GBP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "GS",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "South Georgia & South Sandwich Islands"
+    },
+    {
+        "currency": "KRW",
+        "fullDomainName": "www.skyscanner.co.kr",
+        "market": "KR",
+        "popularLocales": [
+            "ko-KR"
+        ],
+        "name": "South Korea"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.es",
+        "market": "ES",
+        "popularLocales": [
+            "es-ES"
+        ],
+        "name": "Spain"
+    },
+    {
+        "currency": "LKR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "LK",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Sri Lanka"
+    },
+    {
+        "currency": "SHP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SH",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "St. Helena"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "PM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "St. Pierre and Miquelon"
+    },
+    {
+        "currency": "SDG",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SD",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Sudan"
+    },
+    {
+        "currency": "SRD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SR",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Suriname"
+    },
+    {
+        "currency": "SEK",
+        "fullDomainName": "www.skyscanner.se",
+        "market": "SE",
+        "popularLocales": [
+            "sv-SE"
+        ],
+        "name": "Sweden"
+    },
+    {
+        "currency": "CHF",
+        "fullDomainName": "www.skyscanner.ch",
+        "market": "CH",
+        "popularLocales": [
+            "de-DE",
+            "en-GB",
+            "fr-FR",
+            "it-IT"
+        ],
+        "name": "Switzerland"
+    },
+    {
+        "currency": "SYP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "SY",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Syria"
+    },
+    {
+        "currency": "TWD",
+        "fullDomainName": "www.skyscanner.com.tw",
+        "market": "TW",
+        "popularLocales": [
+            "zh-TW"
+        ],
+        "name": "Taiwan"
+    },
+    {
+        "currency": "TJS",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "TJ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Tajikistan"
+    },
+    {
+        "currency": "TZS",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "TZ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Tanzania"
+    },
+    {
+        "currency": "THB",
+        "fullDomainName": "www.skyscanner.co.th",
+        "market": "TH",
+        "popularLocales": [
+            "th-TH"
+        ],
+        "name": "Thailand"
+    },
+    {
+        "currency": "XOF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "TG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Togo"
+    },
+    {
+        "currency": "TOP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "TO",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Tonga"
+    },
+    {
+        "currency": "TTD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "TT",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Trinidad and Tobago"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.fr",
+        "market": "TN",
+        "popularLocales": [
+            "en-GB",
+            "fr-FR"
+        ],
+        "name": "Tunisia"
+    },
+    {
+        "currency": "TRY",
+        "fullDomainName": "www.skyscanner.com.tr",
+        "market": "TR",
+        "popularLocales": [
+            "tr-TR"
+        ],
+        "name": "Turkey"
+    },
+    {
+        "currency": "TMT",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "TM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Turkmenistan"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "TC",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Turks and Caicos Islands"
+    },
+    {
+        "currency": "AUD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "TV",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Tuvalu"
+    },
+    {
+        "currency": "UGX",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "UG",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Uganda"
+    },
+    {
+        "currency": "UAH",
+        "fullDomainName": "www.skyscanner.com.ua",
+        "market": "UA",
+        "popularLocales": [
+            "ru-RU",
+            "uk-UA"
+        ],
+        "name": "Ukraine"
+    },
+    {
+        "currency": "AED",
+        "fullDomainName": "www.skyscanner.ae",
+        "market": "AE",
+        "popularLocales": [
+            "en-US"
+        ],
+        "name": "United Arab Emirates"
+    },
+    {
+        "currency": "GBP",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "UK",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "United Kingdom"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.com",
+        "market": "US",
+        "popularLocales": [
+            "en-US",
+            "es-MX"
+        ],
+        "name": "United States"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "UY",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Uruguay"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "VI",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "US Virgin Islands"
+    },
+    {
+        "currency": "UZS",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "UZ",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Uzbekistan"
+    },
+    {
+        "currency": "VUV",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "VU",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Vanuatu"
+    },
+    {
+        "currency": "EUR",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "VA",
+        "popularLocales": [
+            "it-IT"
+        ],
+        "name": "Vatican City"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.espanol.skyscanner.com",
+        "market": "VE",
+        "popularLocales": [
+            "es-MX"
+        ],
+        "name": "Venezuela"
+    },
+    {
+        "currency": "VND",
+        "fullDomainName": "www.skyscanner.com.vn",
+        "market": "VN",
+        "popularLocales": [
+            "vi-VN"
+        ],
+        "name": "Vietnam"
+    },
+    {
+        "currency": "XPF",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "WF",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Wallis and Futuna Islands"
+    },
+    {
+        "currency": "YER",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "YE",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Yemen"
+    },
+    {
+        "currency": "ZMW",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "ZM",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Zambia"
+    },
+    {
+        "currency": "USD",
+        "fullDomainName": "www.skyscanner.net",
+        "market": "ZW",
+        "popularLocales": [
+            "en-GB"
+        ],
+        "name": "Zimbabwe"
+    }
+]
